@@ -7,7 +7,7 @@ This Python script reports the current system memory statistics and sends them i
 - Python 3.10 or later
 - A Google account with Gmail
 - A Google Cloud project with the Gmail API enabled
-- A Desktop app OAuth client downloaded from Google Cloud
+- A Desktop app OAuth client json downloaded from Google Cloud
 
 ## Setup
 
