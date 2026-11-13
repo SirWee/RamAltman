@@ -71,3 +71,7 @@ The email also includes example usage-summary entries written into the script. T
 ## Security notes
 
 Do not commit `.env`, `credentials.json`, or `token.json`. The included `.gitignore` excludes these files. Treat the OAuth client file and token as credentials, and do not share them publicly.
+
+## License and intent
+
+See [LICENSE](LICENSE) for the full terms.
