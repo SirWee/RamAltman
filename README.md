@@ -2,6 +2,10 @@
 
 This Python script reports the current system memory statistics and sends them in an email using the Gmail API. It reads the sender and optional recipient address from `.env`, authorizes through Google OAuth, and sends the message to Gmail's `users/me/messages/send` endpoint. It does not use SMTP or a Gmail app password.
 
+## Example Output
+
+![example](image/README/example.png)
+
 ## Requirements
 
 - Python 3.10 or later
