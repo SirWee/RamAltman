@@ -79,3 +79,7 @@ Do not commit `.env`, `credentials.json`, or `token.json`. The included `.gitign
 ## License and intent
 
 See [LICENSE](LICENSE) for the full terms.
+
+## Source of Inspiration
+
+![inspo](image/README/inspo.png)
